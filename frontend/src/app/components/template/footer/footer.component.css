@@ -1,0 +1,14 @@
+.footer{
+    max-height: 25px;
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: flex-end;
+    background-color: gainsboro;
+}
+
+.footer > span{
+    font-size: 12px;
+    font-weight: 300;
+}

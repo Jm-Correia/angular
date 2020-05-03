@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color:gainsboro;
+    max-height: 35px;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.header .logo{
+    max-width: 120px;
+}
+
+.header .title-group{
+    font-size: 16px;
+    padding: 15px;
+}
+
+.header .title-group i{
+    padding-right: 5px;
+    font-size: 16px;
+}
+
